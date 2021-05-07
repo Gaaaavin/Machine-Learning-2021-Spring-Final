@@ -1,8 +1,5 @@
 # Machine-Learning-2021-Spring-Final
 Xinhao Liu &amp; Wenbin Qi's Final Project for Machine Learning 2021 Spring
-
-# Machine-Learning-2021-Spring-Final
-Xinhao Liu &amp; Wenbin Qi's Final Project for Machine Learning 2021 Spring
 ## File Structure
 ### Dataset
 <u>**Remember to unzip (use tar command) these datasets to the file where you are running your code**</u>
